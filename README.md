@@ -5,3 +5,5 @@ My name is Barsarani Sahoo, a Computer Science Engineering student. This reposit
 - **Skill:** Learning Python and Full-Stack Web Development
 
 - **Interest:** Interested in Cloud Computing and Software Engineering
+
+- **Goal:** Build open-source developer tools and deploy live web projects
