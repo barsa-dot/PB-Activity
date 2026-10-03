@@ -1,23 +1,14 @@
 #include <stdio.h>
 
 int main() {
-    float length, width, area, perimeter;
+    int year;
+    printf("Enter a year: ");
+    scanf("%d", &year);
 
-    // 1. Take inputs from the user
-    printf("Enter the length of the rectangle: ");
-    scanf("%f", &length);
-
-    printf("Enter the width of the rectangle: ");
-    scanf("%f", &width);
-
-    // 2. Perform calculations based on mathematical formulas
-    area = length * width;
-    perimeter = 2 * (length + width);
-
-    // 3. Display the final results (rounded to 2 decimal places)
-    printf("\n--- Results ---\n");
-    printf("Area of the rectangle: %.2f\n", area);
-    printf("Perimeter of the rectangle: %.2f\n", perimeter);
-
+    if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
+        printf("%d is a leap year.\n", year);
+    } else {
+        printf("%d is not a leap year.\n", year);
+    }
     return 0;
-}   
+}
