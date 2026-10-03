@@ -8,4 +8,7 @@ My name is Barsarani Sahoo, a Computer Science Engineering student. This reposit
 
 - **Goal:** Build open-source developer tools and deploy live web projects
 
-
+## Collaboration Log
+- **Partner:** Self-Paired / Solo Session (@barsa-dot)
+- **Built Together:** Added a dynamic `greet()` function in C using Live Share and verified authorship with GitLens.
+- **Key Takeaway:** GitLens inline blame provides instant line-by-line commit authorship context directly inside VS Code without needing to check GitHub manually.
