@@ -12,3 +12,8 @@ My name is Barsarani Sahoo, a Computer Science Engineering student. This reposit
 - **Partner:** Self-Paired / Solo Session (@barsa-dot)
 - **Built Together:** Added a dynamic `greet()` function in C using Live Share and verified authorship with GitLens.
 - **Key Takeaway:** GitLens inline blame provides instant line-by-line commit authorship context directly inside VS Code without needing to check GitHub manually.
+
+## Activity 8: HackerRank Algorithmic Problem-Solving
+* **Location:** `Activity-8/`
+* **Description:** C solutions and complexity analysis for 5 HackerRank algorithmic problems.
+* **HackerRank Profile:** https://www.hackerrank.com/profile/barsa_sahoo
